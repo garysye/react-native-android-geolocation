@@ -1,0 +1,29 @@
+{
+  "name": "react-native-android-geolocation",
+  "version": "0.0.1",
+  "description": "React Native Module to use Android Geolocation via Google Play API",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "geolocation",
+    "android",
+    "react-component"
+  ],
+  "author": {
+    "name": "Gary Ye"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasticatingMarsupial/react-native-android-geolocation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MasticatingMarsupial/react-native-android-geolocation/issues"
+  },
+  "peerDependencies": {
+    "react-native": "^0.12.0"
+  }
+}
