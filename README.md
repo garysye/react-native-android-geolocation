@@ -30,7 +30,7 @@ dependencies {
 * In `MainActivity.java`
 
 ```java
-import com.rnandroidgeolocation.RNAndroidGeolocation;  // <--- Add import here
+import com.rnandroidgeolocation.AndroidGeolocationPackage;  // <--- Add import here
 
 public class MainActivity extends Activity implements DefaultHardwareBackBtnHandler {
 
@@ -61,6 +61,20 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
 
 }
 ```
+
+### Google Play API Installation
+
+In case you haven't done it already, you will also need to install the corresponding Google Play SDK. To do this run
+
+```bash
+$ cd /path/to/your/android-sdk/tools
+$ android sdk
+```
+
+and select the Google Play SDK extras as pictured below:
+
+![Google Play SDK Installation](./google-play-installation.png)
+
 
 ## Example
 ```javascript
