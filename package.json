@@ -22,8 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/garysye/react-native-android-geolocation/issues"
-  },
-  "peerDependencies": {
-    "react-native": "^0.12.0"
   }
 }
